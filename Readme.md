@@ -11,3 +11,4 @@ Some things I'm hoping to get out of 301:
 ***This is the end of my description.***
 Wow, that was aggressive. Remind me **not** to do that again.
 
+[Class 02](class-02.md)
