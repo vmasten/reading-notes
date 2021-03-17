@@ -1,4 +1,4 @@
-### Read: Class 02 (_class 01 will magically appear here at some point and this disclaimer will go away_)
+### Read: Class 02
 Handling events via DOM manipulation and even with JQuery is extremely cumbersome. It's _functional_, sure, but if nothing else, the code it produces can take significant effort to unwind and analyze if you're not already well-versed in what it does. Consider a basic example from [Learn JQuery](https://learn.jquery.com/events/inside-event-handling-function/): 
 
 ```
